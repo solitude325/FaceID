@@ -1,7 +1,7 @@
 <p align="center">
 	<img alt="logo" src="https://avatars.githubusercontent.com/u/56633317?s=48&v=4" height="50px" width="50px">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">FaceI</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">FaceID</h1>
 <h4 align="center">FaceID人脸识别</h4>
 
 ## 技术选型
